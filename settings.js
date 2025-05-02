@@ -4,7 +4,7 @@ require("./all/module.js")
 
 //========== Setting Owner ==========//
 global.owner = "263771341158"
-global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+global.namaowner = "Mʀ✯Sʜᴇʟʟᴀʜ Oғᴄ❧
 
 //======== Setting Bot & Link ========//
 global.namabot = "*ᴢɪᴍᴄʏʙᴇʀ-ᴍᴅ*" 
