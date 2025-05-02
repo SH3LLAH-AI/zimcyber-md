@@ -1,5 +1,5 @@
-<p align="center">
-##Zimcyber-MD 
+<p align="center"
+  Zimcyber-MD 
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/SH3LLAH-AI?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/SH3LLAH-AI?label=Followers&style=social"></a>
-  <a href="https://github.com/SH3LLAH-AI/zimcyber-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/XdKing2/Mk-bot?&style=social"></a>
+  <a href="https://github.com/SH3LLAH-AI/zimcyber-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SH3LLAH-AI/zimcyber-md?&style=social"></a>
   <a href="https://github.com/SH3LLAH-AI/zimcyber-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SH3LLAH-AI/zimcyber-md?style=social"></a>
   <a href="https://github.com/SH3LLAH-AI/zimcyber-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SH3LLAH-AI/zimcyber-md?label=Watching&style=social"></a>
 </p>
