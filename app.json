@@ -1,0 +1,17 @@
+{                                                                     
+  "name": "zimcyber-md",                                           
+  "description": "WhatsApp bot.",                                       
+  "repository": "https://github.com/XdKing2/zimcyber-md",                                                                     
+  "logo": "https://files.catbox.moe/vfv7n6.jpg",           
+  "keywords": ["nodejs", "XdKing2","zimcyber", "multi device"],                                               
+  "buildpacks": [                                                     
+    {                                                                   
+      "url": "heroku/nodejs"                                        
+    },                                                                
+    {                                                                   
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"                                                            
+    },                                                                
+    {                                                                   
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"                                                                  
+    }                                                            
+  ]                                                            
