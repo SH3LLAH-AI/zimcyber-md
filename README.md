@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SH3LLAH-AI">
-    <img alt="Zimcyber-MD logo" height="200" src="[https://files.catbox.moe/o7w3fr.jpg](https://files.catbox.moe/o7w3fr.jpg)">
+    <img alt="Zimcyber-MD logo" height="200" src="https://files.catbox.moe/673wtp.jpg">
   </a>
 </p>
 
