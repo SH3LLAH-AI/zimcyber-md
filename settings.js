@@ -28,7 +28,7 @@ global.owneroff = false
 global.antibug = true
 global.autoreadsw = true  // Auto read status
 global.autolikesw = true  // Auto like status (❤️)
-
+global.alwaysonline= true
 
 //========= Setting Message =========//
 global.msg = {
