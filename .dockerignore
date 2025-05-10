@@ -1,0 +1,2 @@
+docker build -t zimcyber-md .
+docker run zimcyber-md
